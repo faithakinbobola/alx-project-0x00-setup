@@ -4,7 +4,6 @@ import STAR_IMAGE from "@/public/assets/star.png"
 import React from "react"
 import Pill from "./Pill"
 
-
 const Card: React.FC = () => {
  return (
     <div className="h-[422px] w-[378.56px] cursor-pointer hover:shadow-md hover:rounded-lg ">
